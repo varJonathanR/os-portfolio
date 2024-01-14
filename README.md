@@ -31,11 +31,12 @@ Built with [VITE](https://vitejs.dev/) and hosted with [Netlify](https://www.net
 ## 🔎 Overview
 
 > Stay tuned for upcoming updates!
+
 ![OS Portfolio Preview](https://github.com/varJonathanR/os-portfolio/blob/main/public/os-portfolio_preview.png)
 
 Welcome to my web portfolio with an operating system theme. Here, you can find information about me, my skills, certifications, projects, and my social media links.
 
-> Note:
+> [!NOTE]
 > This is my first project done with TypeScript, so there might be some things to improve.
 
 ### 🛠️ Built With
