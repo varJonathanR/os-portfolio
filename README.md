@@ -38,6 +38,7 @@ Welcome to my web portfolio with an operating system theme. Here, you can find i
 
 > [!NOTE]
 > This is my first project done with TypeScript, so there might be some things to improve.
+> Use https://github.com/varJonathanR/os-portfolio to view this project as in a code editor.
 
 ### 🛠️ Built With
 
