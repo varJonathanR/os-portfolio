@@ -1,0 +1,21 @@
+{
+    "system": {
+        "about_me_title": "About Me",
+        "projects_title": "Projects",
+        "resume": "Resume"
+    },
+    "about_me": {
+        "description": "Front End Developer with the goal of becoming a Full Stack Developer. Throughout my learning journey, I have sought challenging projects that allow me to explore new programming approaches and develop creative solutions. My primary focus when coding is to achieve maximum efficiency, adhering to best practices in web development and maintaining clean and scalable code. I always strive to stay updated on the technological landscape to work more professionally and efficiently. Additionally, I aim to learn technologies that will help me achieve my goals.",
+        "tech_stack": "Skills",
+        "certifications": "Certifications"
+    },
+    "projects": {
+        "title": "Showcase projects",
+        "span": "You can check all my projects at my",
+        "span_icon": "Click on the icon to see preview",
+        "github_jobs_description": "There you can discover multiple job opportunities in 18 different countries. Additionally, you can filter jobs based on Full-Time positions and explore opportunities in various states within your country of interest.",
+        "weather_description": "Your go-to destination for real-time weather information from around the world! This comprehensive weather application provides you with a forecast for the next 5 days (daily average) and current conditions.",
+        "translator_app_description": "With support for a wide range of languages, you can easily bridge communication gaps. The app is designed for simplicity, enabling users to input up to 500 characters of text and receive instant translations.",
+        "word_scramble_description": "A simple game about guessing the word by arranging letters in random order, it features a wide variety of words and allows up to 5 attempts to guess each word."
+    }
+}

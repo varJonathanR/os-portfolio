@@ -1,0 +1,21 @@
+{
+    "system": {
+        "about_me_title": "Sobre mí",
+        "projects_title": "Proyectos",
+        "resume": "Curriculum"
+    },
+    "about_me": {
+        "description": "Desarrollador Front End con el objetivo de convertirme en desarrollador Full Stack, a lo largo de mi aprendizaje he tratado de buscar proyectos retadores que me permitan aprender nuevas formas de programar y a desarrollar soluciones creativas. Mi principal enfoque al momento de programar es buscar la mayor eficiencia, con buenas prácticas del desarrollo web y manteniendo un código limpio y escalable. Siempre trato de mantenerme al tanto del entorno de tecnologías que me permitan trabajar de manera más profesional y eficiente, además de tratar aprender aquellas tecnologías que me permitirán alcanzar mis objetivos.",
+        "tech_stack": "Habilidades",
+        "certifications": "Certificaciones"
+    },
+    "projects": {
+        "title": "Proyectos más relevantes",
+        "span": "Puedes ver todos mis proyectos en mi",
+        "span_icon": "Click en el icono para ver preview",
+        "github_jobs_description": "Acá puedes descubrir múltiples oportunidades laborales en 18 países diferentes. Además, puedes filtrar trabajos según posiciones de tiempo completo y explorar oportunidades en varios estados dentro del país de tu interés.",
+        "weather_description": "Tu aplicación para obtener información meteorológica en tiempo real de todo el mundo. Esta completa aplicación meteorológica te brinda un pronóstico para los próximos 5 días (con promedio diario) y condiciones actuales.",
+        "translator_app_description": "Con soporte para una amplia variedad de idiomas, puedes superar fácilmente las barreras de comunicación. La aplicación está diseñada para ser sencilla, permitiendo a los usuarios ingresar hasta 500 caracteres de texto y recibir traducciones instantáneas.",
+        "word_scramble_description": "Un juego sencillo sobre adivinar la palabra mediante letras en orden aleatorio, cuenta con una amplia variedad de palabras y permite hasta 5 intentos para adivinar cada palabra"
+    }
+}
