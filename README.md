@@ -6,18 +6,10 @@
 
 <div align="center">
 
-Built with [VITE](https://vitejs.dev/) and hosted with [Netlify](https://www.netlify.com/) <br>
+Built with [VITE](https://vitejs.dev/) and hosted with [Netlify](https://www.netlify.com/) • <a href="https://varjonathanr.netlify.app/">Demo</a> <br>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a392782c-b555-42fc-978f-f1737189c3a1/deploy-status)](https://app.netlify.com/sites/varjonathanr/deploys)
 
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://varjonathanr.netlify.app/">
-      Demo
-    </a>
-  </h3>
 </div>
 
 ## Table of Contents

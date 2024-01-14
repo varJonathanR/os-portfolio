@@ -27,8 +27,7 @@ export default function App() {
 
   return (
       <MyGlobalContext.Provider value={{ 
-        language, setLanguage, 
-        appLanguage, setAppLanguage,
+        language, setLanguage, appLanguage, setAppLanguage,
         activeAbout, activeProjects, activeResume, activeChrome, activeMenu,
         setActiveAbout, setActiveProjects, setActiveResume, setActiveChrome, setActiveMenu,
         minimizeAboutScreen, minimizeProjectsScreen, minimizeResumeScreen, minimizeChromeScreen,
