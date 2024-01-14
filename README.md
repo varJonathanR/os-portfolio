@@ -37,7 +37,7 @@ Built with [VITE](https://vitejs.dev/) and hosted with [Netlify](https://www.net
 Welcome to my web portfolio with an operating system theme. Here, you can find information about me, my skills, certifications, projects, and my social media links.
 
 > [!NOTE]
-> This is my first project done with TypeScript, so there might be some things to improve.
+> This is my first project done with TypeScript, so there might be some things to improve. <br>
 > Use https://github.com/varJonathanR/os-portfolio to view this project as in a code editor.
 
 ### 🛠️ Built With
