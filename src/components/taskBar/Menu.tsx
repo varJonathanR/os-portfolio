@@ -1,7 +1,7 @@
 import { useGlobalContext } from "../../provider/UseProvider"
 import DesktopAction from "../desktop/DesktopAction";
 import Social from "../Social";
-import vJRLogo from '../../assets/vJRLogo.webp'
+import vJRLogo from '/vJRLogo.webp'
 
 export default function Menu() {
     const { activeMenu } = useGlobalContext();

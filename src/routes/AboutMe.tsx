@@ -1,4 +1,4 @@
-import vjrLogo from '../assets/vJRLogo.webp'
+import vjrLogo from '/vJRLogo.webp'
 import Social from '../components/Social'
 import Certifications from '../components/aboutMe/Certifications'
 import Skills from '../components/aboutMe/Skills'

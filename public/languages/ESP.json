@@ -2,7 +2,7 @@
     "system": {
         "about_me_title": "Sobre mí",
         "projects_title": "Proyectos",
-        "resume": "Curriculum"
+        "resume": "Currículum"
     },
     "about_me": {
         "description": "Desarrollador Front End con el objetivo de convertirme en desarrollador Full Stack, a lo largo de mi aprendizaje he tratado de buscar proyectos retadores que me permitan aprender nuevas formas de programar y a desarrollar soluciones creativas. Mi principal enfoque al momento de programar es buscar la mayor eficiencia, con buenas prácticas del desarrollo web y manteniendo un código limpio y escalable. Siempre trato de mantenerme al tanto del entorno de tecnologías que me permitan trabajar de manera más profesional y eficiente, además de tratar aprender aquellas tecnologías que me permitirán alcanzar mis objetivos.",
