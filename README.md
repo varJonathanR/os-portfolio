@@ -16,7 +16,6 @@ Built with [VITE](https://vitejs.dev/) and hosted with [Netlify](https://www.net
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
 
@@ -45,7 +44,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/varJonathanR/github-jobs
+$ git clone https://github.com/varJonathanR/os-portfolio
 
 # Install dependencies
 $ npm install
